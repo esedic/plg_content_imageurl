@@ -1,1 +1,1 @@
-# -plg_content_imageurl
+# plg_content_imageurl

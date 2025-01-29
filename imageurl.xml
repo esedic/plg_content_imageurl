@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content" method="upgrade">
+	<name>PLG_CONTENT_IMAGEURL_TITLE</name>
+	<author>Elvis Sedić</author>
+	<authorEmail>elvis@spletodrom.si</authorEmail>
+	<authorUrl>https://www.spletodrom.si</authorUrl>
+	<copyright>Copyright (c)2006-2017 Elvis Sedić</copyright>
+	<license>GNU General Public License version 3, or later</license>
+	<creationDate>2017-05-30</creationDate>
+	<version>1.0</version>
+	<description>PLG_CONTENT_IMAGEURL_DESCRIPTION</description>
+	<files>
+		<filename plugin="imageurl">imageurl.php</filename>
+	</files>
+	<languages folder="language">
+		<language tag="en-GB">en-GB.plg_content_imageurl.ini</language>
+		<language tag="en-GB">en-GB.plg_content_imageurl.sys.ini</language>
+	</languages>
+</extension>
